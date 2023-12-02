@@ -1,1 +1,1 @@
-# Capstone-BUBT
+# Capstone BUBT
